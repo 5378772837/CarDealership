@@ -1,0 +1,13 @@
+.add-car-content{
+    justify-content: center;
+    height: 600px;
+    width: 600px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    text-align: center;
+    align-items: center;
+    margin:auto;
+    padding: 10px;
+    color: whitesmoke;
+    background-color:  #b00000;
+}

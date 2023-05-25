@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.carDealerProject.entity","l":"Car"},{"p":"com.carDealerProject.controller","l":"CarController"},{"p":"com.carDealerProject.repo","l":"CarRepo"},{"p":"com.carDealerProject.service","l":"CarService"},{"p":"com.carDealerProject.entity","l":"User"}];updateSearchResults();

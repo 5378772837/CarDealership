@@ -1,0 +1,57 @@
+.admin-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.admin-sidebar{
+display: flex;
+flex-direction: column;
+width: 20%;
+height: auto;
+justify-content:left;
+align-items:center;
+color: whitesmoke;
+background-color: #b00000;
+border:solid navy}
+
+.sidebar-input-container{
+    flex-direction: column;
+    justify-content: center;
+    border: solid black;
+    height:30px;
+    width: 200px;
+}
+
+.fill{
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
+
+.car-edit-box{
+    display: flex;
+    height: auto;
+    width: auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+    color: whitesmoke;
+    border:solid black ;
+    background-color: #b00000;
+    margin: auto;
+}
+.picture-box{
+    height:500px;
+    width: auto;
+}
+.input-container{
+    flex-direction: row;
+    justify-content: center;
+    border: solid black;
+    margin-top: 10px;
+    height:30px;
+    width: 500px;
+}

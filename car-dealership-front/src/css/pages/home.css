@@ -1,0 +1,27 @@
+.home-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.background {
+    background: url(https://www.claimsjournal.com/app/uploads/2019/11/bigstock-Wrecked-Vehicles-On-The-Junkya-305526229.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+
+.welcome-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #b00000;
+    border:solid black ;
+    background-color: whitesmoke;
+    margin: auto;
+
+    height: 25%;
+    width: 100vw;
+
+}

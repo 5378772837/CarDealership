@@ -1,0 +1,26 @@
+.signup-signin-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    height: 90vh;
+    
+}
+
+.sign-up-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: whitesmoke;
+    border:solid black ;
+    background-color: #b00000;
+    margin: auto;
+}
+.input-container{
+    flex-direction: row;
+    justify-content: center;
+    border: solid black;
+    height:50px;
+    width: 400px;
+}
